@@ -1,0 +1,55 @@
+Online learning
+C++ tutorial
+C++ tutorial from Cplusplus.com
+https://www3.ntu.edu.sg/home/ehchua/programming/
+https://www.programiz.com/cpp-programming
+https://www.geeksforgeeks.org/c-plus-plus/?ref=shm
+MITOPENCOURSE
+https://www.cplusplus.com/reference/
+
+
+Pointer concepts
+
+    https://www.geeksforgeeks.org/unusual-behaviour-with-character-pointers/
+    Pointer related concepts
+
+
+Copy constructor
+
+    https://www.geeksforgeeks.org/copy-constructor-in-cpp/?ref=gcse
+
+    https://www.programiz.com/cpp-programming/constructors
+
+
+Inheritance concepts
+
+    https://www.programiz.com/cpp-programming/function-overriding
+    https://www.geeksforgeeks.org/inheritance-in-c/?ref=lbp
+    https://www.geeksforgeeks.org/virtual-base-class-in-c/?ref=gcse
+
+
+Memory Management: new and delete
+
+    https://www.programiz.com/cpp-programming/memory-management
+
+
+Polymorphism
+
+    https://www.geeksforgeeks.org/cpp-polymorphism/
+    https://cplusplus.com/doc/tutorial/polymorphism/
+    https://www.tutorialspoint.com/cplusplus/cpp_interfaces.htm
+
+
+Exception
+
+    https://www.geeksforgeeks.org/exception-handling-c/?ref=lbp
+    https://www.cplusplus.com/doc/tutorial/exceptions/
+    https://www.tutorialspoint.com/cplusplus/cpp_exceptions_handling.htm
+    https://www.cplusplus.com/reference/exception/terminate/?kw=terminate
+    https://www.geeksforgeeks.org/customizing-termination-behavior-uncaught-exception-c/
+    https://www.geeksforgeeks.org/exception-handling-and-object-destruction-in-cpp/
+
+
+
+Online shell
+https://www.onlinegdb.com/online_c++_compiler#
