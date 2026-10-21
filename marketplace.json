@@ -1,0 +1,5 @@
+{
+  "name": "springray-mods",
+  "owner": { "name": "Springray7761" },
+  "plugins": [{ "name": "chat-length", "source": "./chat-length" }]
+}
